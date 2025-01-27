@@ -1,0 +1,12 @@
+Math Homework, Solve math exercises for chapter 5, 5, to do
+  Subtask1.1, Complete exercise 1 and 2, 1, to do
+  Subtask1.2, Complete exercise 3 and 4, 3, to do
+English Essay, Write an essay about global warming, 10, to do
+  Subtask2.1, Research about climate change, 5, to do
+  Subtask2.2, Write introduction, 7, to do
+Programming Project, Build a C++ project, 15, to do
+  Subtask3.1, Create a task manager, 12, to do
+  Subtask3.2, Implement the user interface, 14, to do
+History Assignment, Prepare a presentation on World War II, 20, to do
+  Subtask4.1, Gather historical data, 18, to do
+  Subtask4.2, Create the slides, 19, to do
